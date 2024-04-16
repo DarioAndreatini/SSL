@@ -8,4 +8,4 @@ Curso: K2152
 
 Año: 2024
 
-Este repositorio fue creado para subir tareas, tps y actualizaciones de la materia. Programaremos en lenguajen C.
+Este repositorio fue creado para subir tareas, tps y actualizaciones de la materia. Programaremos en lenguaje C.
