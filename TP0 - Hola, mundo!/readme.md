@@ -4,4 +4,4 @@ Creacion del TP0 individual
 
 Use Visual Studio Code con el compilador GCC. Version: 13.2.0 (Rev3)
 
-Notas: Verificar con el profe.
+
